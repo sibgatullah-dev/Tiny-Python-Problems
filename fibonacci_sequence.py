@@ -1,3 +1,5 @@
+#The fibonacci sequence 
+
 num = int(input("Enter your number: "))
 a,b = 0,1
 print(f'{a} {b}', end=" ")
